@@ -94,8 +94,9 @@ For HEC-accredited degrees (Bachelor of Arts in Project Management and Bachelor 
 
     "Will I receive a certification upon completing the program?": "Yes, upon successful completion of the Project Management or Business Analytics programs, you will receive a formal certification that can boost your qualifications in the job market.",
 
-    "What is the curriculum like for the Project Management Program?": """The Project Management curriculum at Kepler includes foundational courses in project planning, risk management, budgeting, stakeholder communication, and the use of project management tools like Microsoft Project or other software.
-    }
+    "What is the curriculum like for the Project Management Program?": """The Project Management curriculum at Kepler includes foundational courses in project planning, risk management, budgeting, stakeholder communication, and the use of project management tools like Microsoft Project or other software."""
+}
+
 
 
 
